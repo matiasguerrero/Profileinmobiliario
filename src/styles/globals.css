@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #f9f9f9;
+}
+
+.nav-link {
+	cursor: pointer;
+	background-image: linear-gradient(#c0ff3f, #c0ff3f);
+	background-position: 0% 100%;
+	background-repeat: no-repeat;
+	background-size: 0% 2px;
+	transition: background-size 0.3s;
+	margin: 5px 0px;
+  }
+
+  .nav-link:hover {
+	background-size: 100% 2px;
+  }
+

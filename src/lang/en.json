@@ -1,0 +1,142 @@
+{
+    "home" : {
+        "title": "Invest in real estate in Spain or Italy, so",
+        "subtitle": "Create your real estate assets by investing in the most profitable properties with complete security and peace of mind",
+        "callToAction": "Concrete your project",
+        "words": [
+            "intelligent",
+            "scalable",
+            "profitable"
+        ]
+    },
+    "services" : {
+        "title": "I help you finalize your real estate investment project, providing comprehensive support and personalized services",
+        "subtitle": "Simplify your investment in real estate by delegating the entire process:",
+        "services": [
+            "Search for the most profitable property",
+            "Negotiation at the best price",
+            "Reform of the property",
+            "Property manager"
+        ],
+        "subtitle2": "Maximize the effectiveness of your investment by delegating the entire process:",
+        "proccess": [
+            {
+                "title": "Search for the most profitable property",
+                "subtitle": "Search"
+            },
+            {
+                "title": "Negotiation at the best price",
+                "subtitle": "Saving"
+            },
+            {
+                "title": "Reform of the property",
+                "subtitle": "Reform"
+            },
+            {
+                "title": "Rent and tenant management",
+                "subtitle": "Management"
+            }
+        ],
+        "subtitle3": "As Buyer's Agent, I am exclusively dedicated to the search for properties expressly commissioned by my buyer clients, whether they are in Spain or Italy at the time of purchase.",
+        "advantage_title": "Why hire my services?",
+        "advantages": [
+            {
+                "title": "You save time",
+                "description": "Stop wasting hours in front of the computer searching portals without knowing what you want or visiting properties without legal documentation in order. Trust us, especially if you are outside of Spain or Italy."
+            },
+            {
+                "title": "You save worries",
+                "description": "I will provide you with comprehensive support from the beginning to the end of the process. From before you start, during the search and until after the transaction, you will receive assistance in procedures such as obtaining the NIE, opening a bank account, administrative services and property registration."
+            },
+            {
+                "title": "You save money",
+                "description": "Once I find the desired property, I will prepare a personalized negotiation strategy to obtain the best possible price. I will provide you with professional advice and advice, negotiating on your behalf to ensure a successful purchase"
+            }
+        ]
+    },
+    "about": {
+        "title": "About me",
+        "text": "Trained in business administration and management as well as specialized in real estate agent and investor, I accompany my clients in a comprehensive way to help them make their real estate investment projects a reality. Whether you want to buy or sell, in Spain or Italy I am here to guide you every step of the way, ensuring a smooth and stress-free experience.",
+        "text2": "The attention to detail and the well-being of my clients and my collaborators make me the ideal partner for all your real estate needs. Let's embark on this adventure together and make your real estate dreams come true!",
+        "characteristics": [
+            {
+                "title": "Approach",
+                "description": "My focus is simple: your real estate investment success. I will strive to exceed expectations by providing a results-driven and personalized search experience."
+            },
+            {
+                "title": "Values",
+                "description": "I am committed to professional ethics, transparency and honesty in every interaction. My values drive me to prioritize the well-being of my clients and to establish relationships based on mutual trust."
+            },            {
+                "title": "Mission",
+                "description": "My mission is to help my clients carry out their real estate investment projects in Spain or Italy with complete security and peace of mind, providing a personalized service and guaranteeing their satisfaction at every step of the process."
+            }
+        ],
+        "callToAction": "Contact me"
+    },
+    "blog": {
+        "title": "What you need to know to complete your real estate investment project in Spain or Italy successfully",
+        "blogs": [
+            {
+                "title": "Rental Management",
+                "description": "As a Property Manager I offer a range of personalized services for owners and renters who need professional help with managing their property or who need a concierge to manage their rentals. 100% personalized services available online throughout Spain and Italy, and in person in Barcelona"
+            },
+            {
+                "title": "Plan the investment",
+                "description": "It is important not to forget that, prior to buying a property, analyzing the real estate market in the area or city where you want to invest will play an essential role. You must know not only supply and demand, prices, trends, but also focus on the factors that influence property values, opportunities and risks"
+            },
+            {
+                "title": "Traditional financing",
+                "description": "If you do not have enough money to buy a property in cash, you can resort to mortgage financing. To do this, you must compare the different options offered by financial institutions and choose the one that best suits you according to the interest rate, term or commissions. You should also take into account your ability to pay and your level of indebtedness, to avoid future problems."
+            },
+            {
+                "title": "Location and diversification",
+                "description": "We always recommend choosing an area that has good communication, services and quality of life. For example, if you want to invest in housing for students or young professionals, you can opt for areas or workplaces. If you prefer to invest in a family home, you may prefer residential or quiet areas. Also, if the intention is to reduce risk and increase the chances of success when investing in real estate, you can diversify your investment in different types of properties or locations. So you can take advantage of the opportunities offered by each market and better adapt to changes in the sector."
+            },
+            {
+                "title": "Investing gives us the possibility of making our money profitable",
+                "description": "To be certain that the return on investment in a property is optimal, it is necessary to make certain calculations and closely follow indicators that show the true numbers of the processes. Among them, profitability is a key reference to have the detail of the investments. If you are thinking of starting an investment in real estate this year, you should already know that the real estate market is one of the most profitable and safe in the long term, but also one of the most changing. For this reason, before starting to buy a property, I remind you that it is important to follow some tips that will help you make the best decision and maximize the return on your investment."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contact me, let's make your real estate investment project a reality",
+        "contact_form": {
+            "title": "Send me a message and tell me about your project",
+            "name_label": "Name and surname",
+            "email_label": "E-mail",
+            "message_label": "Message",
+            "callToAction": "Send Message",
+            "status_ok_message": "Message sent!"
+        },
+        "contact_data": {
+            "title": "Martin Mariotti, Real Estate Personal Shopper",
+            "location": "Barcelona, ​​Spain",
+            "email": "martinmariotti.realestate",
+            "italy": "Italy",
+            "spain": "​​Spain"
+        }
+    },
+    "footer": {
+        "title": {
+            "line1":  "My advice, your profitability.",
+            "line2":  "Invest with confidence today."
+        },
+        "subtitle": "Martin Mariotti, 2023",
+        "acreditations": "Accreditations",
+        "email": "martinmariotti.realestate@gmail.com",
+        "nav": {
+            "home_nav": "Home",
+            "services_nav": "Services",
+            "about_nav": "About me",
+            "blog_nav": "Blog",
+            "contact_nav": "Contact"
+        }
+    },
+    "nav": {
+        "home_nav": "Home",
+        "services_nav": "Services",
+        "about_nav": "About me",
+        "blog_nav": "Blog",
+        "contact_nav": "Contact"
+    }
+}

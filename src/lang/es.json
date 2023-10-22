@@ -1,0 +1,142 @@
+{
+    "home" : {
+        "title": "Invierte en inmuebles en España o Italia, de forma",
+        "subtitle": "Crea tu patrimonio inmobiliario inviertiendo en los inmuebles de mayor rentabilidad con total seguridad y tranquilidad",
+        "callToAction": "Concreta tu proyecto",
+        "words": [
+            "inteligente",
+            "escalable",
+            "rentable"
+        ]
+    },
+    "services" : {
+        "title": "Te ayudo a concretar tu proyecto de inversión en bienes raíces, brindando un acompañamiento integral y servicios personalizados",
+        "subtitle": "Simplifica tu inversión en inmuebles delegando todo el proceso:",
+        "services": [
+            "Busqueda del inmueble mas rentable",
+            "Negociacion al mejor precio",
+            "Reforme del inmueble",
+            "Gestion del alquiler e inquilino"
+        ],
+        "subtitle2": "Maximiza la eficacia de tu inversión delegando todo el proceso:",
+        "proccess": [
+            {
+                "title": "Busqueda del inmueble mas rentable",
+                "subtitle": "Busqueda"
+            },
+            {
+                "title": "Negociacion al mejor precio",
+                "subtitle": "Ahorro"
+            },
+            {
+                "title": "Reforma del inmueble",
+                "subtitle": "Reforma"
+            },
+            {
+                "title": "Gestion del alquiler e inquilino",
+                "subtitle": "Gestion"
+            }
+        ],
+        "subtitle3": "Como Agente del Comprador, me dedico exclusivamente a la búsqueda de propiedades por encargo expreso de mis clientes compradores, ya sea que se encuentren en España o Italia al momento de la compra.",
+        "advantage_title": "¿Por que contratar mis servicios?",
+        "advantages": [
+            {
+                "title": "Ahorras tiempo",
+                "description": "Deja de perder horas frente al ordenador buscando en portales sin saber qué quieres o visitando inmuebles sin documentación legal en orden. Confía en nosotros, especialmente si estás fuera de España o Italia."
+            },
+            {
+                "title": "Ahorras preocupaciones",
+                "description": "Te brindaré un acompañamiento integral desde el inicio hasta el final del proceso. Desde antes de comenzar, durante la búsqueda y hasta después de la transacción, recibirás asistencia en trámites como obtención del NIE, apertura de cuenta bancaria, servicios administrativos y registro de la propiedad."
+            },
+            {
+                "title": "Ahorras dinero",
+                "description": "Una vez encuentre el inmueble deseado, prepararé una estrategia de negociación personalizada para obtener el mejor precio posible. Te brindaré asesoramiento y consejo profesional, negociando en tu nombre para garantizar una compra exitosa"
+            }
+        ]
+    },
+    "about": {
+        "title": "Sobre mí",
+        "text": "Formado en administración y dirección de empresa como así también especializado en agente e inversor inmobiliario, acompaño a mis clientes de manera integral para ayudarlos a hacer realidad sus proyectos de inversión inmobiliaria. Ya sea que desee comprar o vender, en España o Italia estoy aquí para guiarlo en cada paso del camino, asegurándole una experiencia tranquila y sin estrés.",
+        "text2": "La atención al detalle y el bienestar de mis clientes y mis colaboradores me convierten en el socio ideal para todas sus necesidades inmobiliarias. ¡Embarquémonos juntos en esta aventura y hagamos realidad sus sueños inmobiliarios!",
+        "characteristics": [
+            {
+                "title": "Enfoque",
+                "description": "Mi enfoque es simple: tu éxito en inversión inmobiliaria. Me esforzaré por superar las expectativas al proporcionar una experiencia de búsqueda personalizada y orientada a resultados."
+            },
+            {
+                "title": "Valores",
+                "description": "Estoy comprometido con la ética profesional, la transparencia y la honestidad en cada interacción. Mis valores me impulsan a priorizar el bienestar de mis clientes y a establecer relaciones basadas en la confianza mutua."
+            },            {
+                "title": "Mision",
+                "description": "Mi misión es ayudar a mis clientes a concretar sus proyectos de inversión inmobiliaria en España o Italia con total seguridad y tranquilidad, proporcionando un servicio personalizado y garantizando su satisfacción en cada paso del proceso."
+            }
+        ],
+        "callToAction": "Contactame"
+    },
+    "blog": {
+        "title": "Lo que debes saber para concretar tu proyecto de inversión en bienes raíces en España o Italia con éxito",
+        "blogs": [
+            {
+                "title": "Gestión de Alquileres",
+                "description": "Como Property Manager ofrezco un abanico de servicios personalizados para propietarios y arrendadores que necesitan ayuda profesional con la administración de su propiedad o que necesitan un conserje para gestionar sus alquileres. Servicios 100% personalizados disponibles online en toda España e Italia, y de manera presencial en Barcelona"
+            },
+            {
+                "title": "Planificar la inversión",
+                "description": "Es importante no olvidarse que, previo a la compra de una propiedad, analizar el mercado inmobiliario de la zona o ciudad donde quieres invertir cumplirá un papel esencial. Debes conocer no solo la oferta y la demanda, los precios, las tendencias, sino también centrarte en los factores que influyen en el valor de las propiedades, las oportunidades y los riesgos"
+            },
+            {
+                "title": "Financiación tradicional",
+                "description": "Si no cuentas con el dinero suficiente para comprar una propiedad al contado, puedes recurrir a la financiación hipotecaria. Para ello, debes comparar las diferentes opciones que ofrecen las entidades financieras y elegir la que más te convenga según el tipo de interés, el plazo o las comisiones. También debes tener en cuenta tu capacidad de pago y tu nivel de endeudamiento, para evitar problemas futuros."
+            },
+            {
+                "title": "Ubicación y diversificación",
+                "description": "Siempre recomendamos elegir una zona que tenga buena comunicación, servicios y calidad de vida. Por ejemplo, si quieres invertir en una vivienda para estudiantes o jóvenes profesionales, puedes optar por zonas o centros de trabajo. Si prefieres invertir en una vivienda para familias, puedes preferir zonas residenciales o tranquilas. Asimismo, si la intención es reducir el riesgo y aumentar las posibilidades de éxito al invertir en bienes raíces, puedes diversificar tu inversión en diferentes tipos de propiedades o ubicaciones. Así podrás aprovechar las oportunidades que ofrece cada mercado y adaptarse mejor a los cambios del sector."
+            },
+            {
+                "title": "Invertir nos da la posibilidad de rentabilizar nuestro dinero",
+                "description": "Para tener la certeza de que el rendimiento de la inversión en un inmueble sea óptimo, es necesario hacer ciertos cálculos y seguir de cerca indicadores que muestren los verdaderos números de los procesos. Entre ellos, la rentabilidad es un referente clave para tener el detalle de las inversiones. Si estás pensando en empezar una inversión en bienes raíces este año, ya debes saber que el mercado inmobiliario es uno de los más rentables y seguros a largo plazo, pero también uno de los más cambiantes. Por eso, antes de lanzarte a comprar una propiedad, te recuerdo que es importante seguir algunos consejos que te ayudarán a tomar la mejor decisión y conseguir maximizar el retorno de tu inversión."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contactame, hagamos realidad tu proyecto de inversión inmobiliario",
+        "contact_form": {
+            "title": "Enviame un mensaje y cuentame sobre tu proyecto",
+            "name_label": "Nombre y apellido",
+            "email_label": "Email",
+            "message_label": "Mensaje",
+            "callToAction": "Enviar Mensaje",
+            "status_ok_message": "Mensaje enviado!"
+        },
+        "contact_data": {
+            "title": "Martin Mariotti, Personal Shopper Inmobiliario",
+            "location": "Barcelona, España",
+            "email": "martinmariotti.realestate",
+            "italy": "Italia",
+            "spain": "España"
+        }
+    },
+    "footer": {
+        "title": {
+            "line1":  "Mi asesoría, tu rentabilidad.",
+            "line2":  "Invierte con confianza hoy mismo."
+        },
+        "subtitle": "Martin Mariotti, 2023",
+        "acreditations": "Acreditaciones",
+        "email": "martinmariotti.realestate@gmail.com",
+        "nav": {
+            "home_nav": "Inicio",
+            "services_nav": "Servicios",
+            "about_nav": "Sobre mí",
+            "blog_nav": "Blog",
+            "contact_nav": "Contacto"
+        }
+    },
+    "nav": {
+        "home_nav": "Inicio",
+        "services_nav": "Servicios",
+        "about_nav": "Sobre mí",
+        "blog_nav": "Blog",
+        "contact_nav": "Contacto"
+    }
+}
